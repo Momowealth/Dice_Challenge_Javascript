@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: steelblue;
+}
+.container{
+    text-align: center;
+    
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+    margin: 70px 70px;
+}
+img{
+    width: 70%;
+}
+p{
+    font-size: 25px;
+    margin: 10px 0;
+    color: rgb(109, 10, 10);
+}
